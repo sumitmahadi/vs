@@ -32,6 +32,9 @@ button{
 
 
 }
+.h2{
+    background-color: #555;
+}
 button:hover{
     background-color: #555;
 }
